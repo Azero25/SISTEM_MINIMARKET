@@ -1,0 +1,3 @@
+A1001 Buku_tulis 10 3000
+A1002 Bolpoin 10 3500
+A2002 Tas 0 250000
